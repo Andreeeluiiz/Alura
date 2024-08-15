@@ -1,0 +1,3 @@
+mkdir meu-site
+cd meu-site
+touch index.html style.css script.js
